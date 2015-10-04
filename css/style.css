@@ -33,6 +33,7 @@ h2{
 }
 
 p{
+	text-align: justify;
 	padding-top: 7px;
 	line-height: 19px;
 }
