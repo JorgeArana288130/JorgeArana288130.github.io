@@ -42,7 +42,7 @@ p{
 header{
 	width: 100%;
 	overflow: hidden;
-	background: green;
+	background: #D7DF01;
 	margin-bottom: 20px;
 }
 	
@@ -83,12 +83,12 @@ header nav a:hover{
 footer{
 	width: 100%;
 	overflow: hidden;
-	background: green;
+	background: #D7DF01;
 	margin-top: 20px;
 }
 
 footer div{
-	color: #000;
+	color: #fafafa;
 	font-size: 13px;
 	line-height: 60px;
 	text-align: center;
