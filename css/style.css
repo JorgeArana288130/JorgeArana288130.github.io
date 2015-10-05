@@ -5,7 +5,7 @@
 }
 
 body{
-	background: #ffeeb0;
+	background: #f9ffff;
 }
 
 a:hover{
@@ -43,12 +43,12 @@ p{
 header{
 	width: 100%;
 	overflow: hidden;
-	background: #D7DF01;
+	background: #C8FE2E;
 	margin-bottom: 20px;
 }
 	
 header .logo{
-	color: #f2f2f2;
+	color: #f9ffff;
 	font-size: 50px;
 	line-height: 120px;
 	float: left;
@@ -84,7 +84,7 @@ header nav a:hover{
 footer{
 	width: 100%;
 	overflow: hidden;
-	background: #D7DF01;
+	background: #C8FE2E;
 	margin-top: 20px;
 }
 
